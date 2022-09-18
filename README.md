@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Alestra-log.github.io/rsschool-cv/cv
