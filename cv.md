@@ -1,27 +1,27 @@
 # Yulia Shashkina Junior Front-end developer #
-[Newdream175@gmail.com](Newdream175@gmail.com)
+[Newdream175@gmail.com](Newdream175@gmail.com)  
 +7(929)541-84-83
 
 ## About myself ##
 Good afternoon! My name is Julia and I'm just starting to learn! I don’t set myself the goal of training and finding a job, I just like the process of learning something new. At school my favorite subject was math, I enjoyed solving problems. Unfortunately, life turned out in such a way that I did not have the opportunity to get a decent education. I built a career in management and achieved a lot, in this branch of development nothing motivates or attracts me anymore. Now I have challenged myself, I want to develop my intellectual skills in programming. I took a short course on Html and CSS and found the layout process very exciting and I want to move on.
 
 ### Books: ###
-Kirupa Chinnathambi "JavaScript Absolute Beginner's Guide"
-david sawyer mcfarland "CSS: The Missing Manual"
-Aditya Bhargava "Grokking Algorithms"
+* Kirupa Chinnathambi "JavaScript Absolute Beginner's Guide"
+* david sawyer mcfarland "CSS: The Missing Manual"
+* Aditya Bhargava "Grokking Algorithms"
 
 ### Skills: ###
-HTML
-css
-SASS
-Bootstrap
-English Beginner
+* HTML
+* css
+* SASS
+* Bootstrap
+* English Beginner
 
 ## Education: ##
-RMAT - Management (Bachelor)
+RMAT - Management (Bachelor)  
 Training center "Specialist" - Fundamentals of programming and databases
 
-##C ode examples ##
+## C ode examples ##
 ### Html ###
 ```<!DOCTYPE html>
 <html lang="en">
